@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1568398341 source:d:\cs 361\alpha_test.cpp
+	<iostream>
+	<list>
+	"alpha_test.h"
+
+1568398334 d:\cs 361\alpha_test.h
+
+1568398072 source:d:\cs 361\container.cpp
+	"Container.h"
+
+1568397984 d:\cs 361\container.h
+	<iostream>
+	<list>
+	"alpha.h"
+
+1568398032 d:\cs 361\alpha.h
+	<iostream>
+
+1568398152 source:d:\cs 361\main.cpp
+	<iostream>
+	<list>
+	<random>
+	<ctime>
+	"Container.h"
+
+1568398341 source:d:\cs 361\dust_sim\alpha_test.cpp
+	<iostream>
+	<list>
+	"alpha_test.h"
+
+1568398334 d:\cs 361\dust_sim\alpha_test.h
+
+1568398072 source:d:\cs 361\dust_sim\container.cpp
+	"Container.h"
+
+1568397984 d:\cs 361\dust_sim\container.h
+	<iostream>
+	<list>
+	"alpha.h"
+
+1568684780 d:\cs 361\dust_sim\alpha.h
+	<iostream>
+
+1568398107 source:d:\cs 361\dust_sim\alpha.cpp
+	"alpha.h"
+
+1569224688 source:d:\cs 361\dust_sim\main.cpp
+	<iostream>
+	<list>
+	<random>
+	<ctime>
+	<fstream>
+	<cstdlib>
+	"dust.h"
+	"flechette.h"
+	"target.h"
+
+1568684617 source:d:\cs 361\dust_sim\point.cpp
+	<iostream>
+
+1568687976 d:\cs 361\dust_sim\point.h
+	<iostream>
+
+1569224458 d:\cs 361\dust_sim\dust.h
+	<iostream>
+
+1569220888 d:\cs 361\dust_sim\flechette.h
+	"dust.h"
+	<iostream>
+	<list>
+	<iterator>
+
+1568939240 source:d:\cs 361\dust_sim\flechette.cpp
+	"flechette.h"
+
+1569173563 source:d:\cs 361\dust_sim\flechette.h
+	"dust.h"
+	<iostream>
+	<list>
+	<iterator>
+
+1569126089 source:d:\cs 361\dust_sim\dust.h
+	<iostream>
+
+1569225114 d:\cs 361\dust_sim\target.h
+

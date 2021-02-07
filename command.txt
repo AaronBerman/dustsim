@@ -1,0 +1,8 @@
+set xlabel "x location in m"
+set ylabel "y location in m"
+set xrange [0:200]
+set yrange [0:200]
+set view equal xyz
+set terminal png
+set output "time17.png"
+plot "flechette_data.txt"  ps var pt 3  with circles, "Flechette_sound_time17.txt"  ps var pt 3  with points , "Flechette_tremor_time17.txt"  ps var pt 3  with points , "Flechette_temp_time17.txt"  ps var pt 3  with points , "Flechette_rad_time17.txt"  ps var pt 3  with points 
